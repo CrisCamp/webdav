@@ -1,0 +1,114 @@
+[Thu Apr 04 12:21:06.480771 2024] [dav:error] [pid 302:tid 139775960876800] [client 10.0.0.16:45236] Unable to PUT new contents for /users/Factura8_debian1_2024-04-04.pdf.  [500, #0]
+[Thu Apr 04 12:21:06.480820 2024] [dav:error] [pid 302:tid 139775960876800] (13)Permission denied: [client 10.0.0.16:45236] An error occurred while opening a resource for writing: /var/www/webdav/users/Factura8_debian1_2024-04-04.pdf.  [500, #0]
+[Mon Apr 22 18:44:10.202116 2024] [auth_basic:error] [pid 835:tid 140421934081792] [client 10.0.0.1:47624] AH01618: user  not found: /null, referer: http://10.0.0.14/users/
+[Mon Apr 22 18:44:11.041616 2024] [auth_basic:error] [pid 835:tid 140421925689088] [client 10.0.0.1:47624] AH01618: user  not found: /null, referer: http://10.0.0.14/users/
+[Mon Apr 22 20:23:20.403556 2024] [dav:error] [pid 1226:tid 140120699143936] [client 10.0.0.16:52228] Unable to PUT new contents for /files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:23:20.403589 2024] [dav:error] [pid 1226:tid 140120699143936] (13)Permission denied: [client 10.0.0.16:52228] An error occurred while opening a resource for writing: /var/www/webdav/files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:43:13.863882 2024] [dav:error] [pid 1524:tid 140049739163392] [client 10.0.0.16:43054] Unable to PUT new contents for /files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:43:13.863956 2024] [dav:error] [pid 1524:tid 140049739163392] (13)Permission denied: [client 10.0.0.16:43054] An error occurred while opening a resource for writing: /var/www/webdav/files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:43:17.785526 2024] [dav:error] [pid 1524:tid 140049713985280] [client 10.0.0.16:43060] Unable to PUT new contents for /files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:43:17.785569 2024] [dav:error] [pid 1524:tid 140049713985280] (13)Permission denied: [client 10.0.0.16:43060] An error occurred while opening a resource for writing: /var/www/webdav/files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:47:56.425626 2024] [dav:error] [pid 1524:tid 140049597318912] [client 10.0.0.16:43666] Unable to PUT new contents for /files/Factura12_debian1_2024-04-22.pdf.  [500, #0]
+[Mon Apr 22 20:47:56.425651 2024] [dav:error] [pid 1524:tid 140049597318912] (13)Permission denied: [client 10.0.0.16:43666] An error occurred while opening a resource for writing: /var/www/webdav/files/Factura12_debian1_2024-04-22.pdf.  [500, #0]
+[Mon Apr 22 20:47:58.883377 2024] [dav:error] [pid 1524:tid 140049580533504] [client 10.0.0.16:46598] Unable to PUT new contents for /files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:47:58.883400 2024] [dav:error] [pid 1524:tid 140049580533504] (13)Permission denied: [client 10.0.0.16:46598] An error occurred while opening a resource for writing: /var/www/webdav/files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:48:06.253854 2024] [dav:error] [pid 1524:tid 140049563748096] [client 10.0.0.16:46614] Unable to PUT new contents for /files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Mon Apr 22 20:48:06.253888 2024] [dav:error] [pid 1524:tid 140049563748096] (13)Permission denied: [client 10.0.0.16:46614] An error occurred while opening a resource for writing: /var/www/webdav/files/a22110099@ceti.mx_debian1.json.  [500, #0]
+[Wed May 29 20:22:30.162205 2024] [auth_basic:error] [pid 302:tid 139639209797376] [client 192.168.100.132:49100] AH01618: user  not found: /
+[Fri May 31 03:27:56.756632 2024] [ssl:warn] [pid 569:tid 139730881871168] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:27:56.757234 2024] [ssl:warn] [pid 569:tid 139730881871168] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:27:56.766065 2024] [ssl:warn] [pid 570:tid 139730881871168] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:27:56.766083 2024] [ssl:warn] [pid 570:tid 139730881871168] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:30:38.379480 2024] [ssl:warn] [pid 643:tid 140476342201664] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:30:38.379512 2024] [ssl:warn] [pid 643:tid 140476342201664] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:30:38.388047 2024] [ssl:warn] [pid 644:tid 140476342201664] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:30:38.388067 2024] [ssl:warn] [pid 644:tid 140476342201664] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:36:59.373118 2024] [ssl:warn] [pid 718:tid 140359852948800] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:36:59.373152 2024] [ssl:warn] [pid 718:tid 140359852948800] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:36:59.381163 2024] [ssl:warn] [pid 719:tid 140359852948800] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:36:59.381183 2024] [ssl:warn] [pid 719:tid 140359852948800] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:38:56.060104 2024] [ssl:warn] [pid 298:tid 140712451394880] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:38:56.060179 2024] [ssl:warn] [pid 298:tid 140712451394880] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:38:56.074337 2024] [ssl:warn] [pid 299:tid 140712451394880] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:38:56.074351 2024] [ssl:warn] [pid 299:tid 140712451394880] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:46:27.625271 2024] [ssl:warn] [pid 298:tid 140447287209280] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:46:27.625344 2024] [ssl:warn] [pid 298:tid 140447287209280] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:46:27.635239 2024] [ssl:warn] [pid 299:tid 140447287209280] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:46:27.635260 2024] [ssl:warn] [pid 299:tid 140447287209280] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:50:22.972631 2024] [ssl:warn] [pid 703:tid 139893831904576] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:50:22.972677 2024] [ssl:warn] [pid 703:tid 139893831904576] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:50:22.981354 2024] [ssl:warn] [pid 704:tid 139893831904576] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:50:22.981372 2024] [ssl:warn] [pid 704:tid 139893831904576] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:50:44.210955 2024] [ssl:warn] [pid 774:tid 140125873380672] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:50:44.210986 2024] [ssl:warn] [pid 774:tid 140125873380672] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 03:50:44.220001 2024] [ssl:warn] [pid 775:tid 140125873380672] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 03:50:44.220028 2024] [ssl:warn] [pid 775:tid 140125873380672] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 04:02:38.029415 2024] [ssl:warn] [pid 850:tid 139652234378560] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 04:02:38.029446 2024] [ssl:warn] [pid 850:tid 139652234378560] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 04:02:38.038266 2024] [ssl:warn] [pid 852:tid 139652234378560] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 04:02:38.038286 2024] [ssl:warn] [pid 852:tid 139652234378560] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 04:02:46.922201 2024] [ssl:warn] [pid 298:tid 140620492811584] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 04:02:46.922330 2024] [ssl:warn] [pid 298:tid 140620492811584] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 04:02:46.931697 2024] [ssl:warn] [pid 299:tid 140620492811584] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 04:02:46.931710 2024] [ssl:warn] [pid 299:tid 140620492811584] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 04:24:31.554031 2024] [ssl:warn] [pid 967:tid 140264610209088] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 04:24:31.554396 2024] [ssl:warn] [pid 967:tid 140264610209088] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 04:24:31.563253 2024] [ssl:warn] [pid 969:tid 140264610209088] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 04:24:31.563273 2024] [ssl:warn] [pid 969:tid 140264610209088] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 05:44:57.707342 2024] [ssl:warn] [pid 1498:tid 140558841331008] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 05:44:57.707381 2024] [ssl:warn] [pid 1498:tid 140558841331008] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 05:44:57.718151 2024] [ssl:warn] [pid 1499:tid 140558841331008] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 05:44:57.718177 2024] [ssl:warn] [pid 1499:tid 140558841331008] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 22:08:51.893886 2024] [ssl:warn] [pid 297:tid 140623667457344] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 22:08:51.894142 2024] [ssl:warn] [pid 297:tid 140623667457344] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 31 22:08:51.908002 2024] [ssl:warn] [pid 299:tid 140623667457344] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri May 31 22:08:51.908017 2024] [ssl:warn] [pid 299:tid 140623667457344] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 01 00:00:14.565791 2024] [ssl:warn] [pid 299:tid 140623667457344] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Jun 01 00:00:14.565807 2024] [ssl:warn] [pid 299:tid 140623667457344] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 01 03:40:26.186116 2024] [ssl:warn] [pid 644:tid 140087152553280] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Jun 01 03:40:26.186154 2024] [ssl:warn] [pid 644:tid 140087152553280] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 01 03:40:26.195066 2024] [ssl:warn] [pid 645:tid 140087152553280] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Jun 01 03:40:26.195085 2024] [ssl:warn] [pid 645:tid 140087152553280] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 03 23:00:15.272581 2024] [ssl:warn] [pid 302:tid 139894085696832] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jun 03 23:00:15.272979 2024] [ssl:warn] [pid 302:tid 139894085696832] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 03 23:00:15.289475 2024] [ssl:warn] [pid 312:tid 139894085696832] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jun 03 23:00:15.289511 2024] [ssl:warn] [pid 312:tid 139894085696832] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 03 23:24:56.297937 2024] [ssl:warn] [pid 297:tid 139871247715648] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jun 03 23:24:56.298265 2024] [ssl:warn] [pid 297:tid 139871247715648] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jun 03 23:24:56.306872 2024] [ssl:warn] [pid 299:tid 139871247715648] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Jun 03 23:24:56.306884 2024] [ssl:warn] [pid 299:tid 139871247715648] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 00:00:59.964778 2024] [ssl:warn] [pid 299:tid 139871247715648] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 00:00:59.964820 2024] [ssl:warn] [pid 299:tid 139871247715648] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 13:28:33.282377 2024] [ssl:warn] [pid 296:tid 140275492920640] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 13:28:33.283110 2024] [ssl:warn] [pid 296:tid 140275492920640] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 13:28:33.310318 2024] [ssl:warn] [pid 298:tid 140275492920640] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 13:28:33.310331 2024] [ssl:warn] [pid 298:tid 140275492920640] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 14:23:28.802782 2024] [ssl:warn] [pid 299:tid 140256125652288] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 14:23:28.802857 2024] [ssl:warn] [pid 299:tid 140256125652288] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 14:23:28.815840 2024] [ssl:warn] [pid 300:tid 140256125652288] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 14:23:28.815854 2024] [ssl:warn] [pid 300:tid 140256125652288] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 14:25:07.129131 2024] [ssl:warn] [pid 298:tid 140156215176512] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 14:25:07.129204 2024] [ssl:warn] [pid 298:tid 140156215176512] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 14:25:07.138144 2024] [ssl:warn] [pid 299:tid 140156215176512] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 14:25:07.138157 2024] [ssl:warn] [pid 299:tid 140156215176512] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 14:59:52.722656 2024] [ssl:warn] [pid 300:tid 140111688232256] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 14:59:52.722759 2024] [ssl:warn] [pid 300:tid 140111688232256] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 04 14:59:52.731652 2024] [ssl:warn] [pid 303:tid 140111688232256] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 04 14:59:52.731664 2024] [ssl:warn] [pid 303:tid 140111688232256] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 11 05:46:51.141198 2024] [ssl:warn] [pid 304:tid 140092871109952] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 11 05:46:51.141688 2024] [ssl:warn] [pid 304:tid 140092871109952] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 11 05:46:51.152669 2024] [ssl:warn] [pid 316:tid 140092871109952] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 11 05:46:51.152683 2024] [ssl:warn] [pid 316:tid 140092871109952] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 11 09:18:50.414647 2024] [auth_basic:error] [pid 321:tid 140092855609088] [client 192.168.100.28:55346] AH01617: user cristopher: authentication failure for "/": Password Mismatch
+[Tue Jun 11 13:47:40.163987 2024] [ssl:warn] [pid 299:tid 139979346345280] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 11 13:47:40.164705 2024] [ssl:warn] [pid 299:tid 139979346345280] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jun 11 13:47:40.173554 2024] [ssl:warn] [pid 303:tid 139979346345280] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 11 13:47:40.173567 2024] [ssl:warn] [pid 303:tid 139979346345280] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 12 21:48:21.532581 2024] [ssl:warn] [pid 304:tid 140587609115968] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 12 21:48:21.533588 2024] [ssl:warn] [pid 304:tid 140587609115968] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jun 12 21:48:21.544589 2024] [ssl:warn] [pid 310:tid 140587609115968] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Jun 12 21:48:21.544602 2024] [ssl:warn] [pid 310:tid 140587609115968] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 04 17:04:23.562793 2024] [ssl:warn] [pid 305:tid 139946061319488] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 04 17:04:23.564890 2024] [ssl:warn] [pid 305:tid 139946061319488] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 04 17:04:23.581245 2024] [ssl:warn] [pid 318:tid 139946061319488] AH01906: www.cris.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Nov 04 17:04:23.581263 2024] [ssl:warn] [pid 318:tid 139946061319488] AH01909: www.cris.com:443:0 server certificate does NOT include an ID which matches the server name
